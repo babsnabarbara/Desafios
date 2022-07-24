@@ -24,7 +24,7 @@ int main ()
     }
     printf ("\n");
 
-    if (10 % 2 != 0)
+    if (TAM % 2 != 0)
         processamentos = (TAM - 1)/2;
     else
         processamentos = TAM / 2;
